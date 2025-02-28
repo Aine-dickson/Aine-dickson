@@ -37,8 +37,8 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%234A90E2.svg?style=flat&logo=tailwindcss&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230080FF.svg?style=flat&logo=android&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230080FF.svg?style=flat&logo=android&logoColor=white)  
 ![Axum](https://img.shields.io/badge/Axum-%23B7410E.svg?style=flat&logo=rust&logoColor=black)
 ![Actix Web](https://img.shields.io/badge/Actix%20Web-%2320232A.svg?style=flat&logo=rust&logoColor=white)  
 ![Shuttle](https://img.shields.io/badge/Shuttle-%23007ACC.svg?style=flat)  
@@ -63,9 +63,9 @@
 ---
 
 ## 📫 How to Reach Me  
-💼 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-📧 **Email:** [your@email.com](mailto:ainedixon01@gmail.com)  
-💬 **WhatsApp:** [linkedin.com/in/yourprofile](https://wa.me/256777532858)  
+💼 **Portfolio:** [github.com/Aine-dickson](https://github.com/Aine-dickson)  
+📧 **Email:** [ainedixon01@gmail.com](mailto:ainedixon01@gmail.com)  
+💬 **WhatsApp:** [+256777532858](https://wa.me/256777532858)  
 
 ---
 
