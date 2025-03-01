@@ -1,6 +1,6 @@
 <!-- Banner (Optional) -->
 <p align="center">
-  <img src="https://yourwebsite.com/banner.png" alt="Ainebyoona Dickson - Software Engineer" width="100%">
+  <img src="https://aine-dickson.github.io/portfolio/banner.png" alt="Ainebyoona Dickson - Software Engineer" width="100%">
 </p>
 
 <!-- Introduction -->
@@ -8,7 +8,7 @@
 <h3 align="center">Software Engineer | Rust Enthusiast | Embedded Systems Innovator</h3>
 
 <p align="center">
-  <a href="https://yourwebsite.com"><strong>🌍 Visit My Portfolio</strong></a> |
+  <a href="https://aine-dickson.github.io/portfolio"><strong>🌍 Visit My Portfolio</strong></a> |
   <a href="https://wa.me/256777532858">💼 WhatsApp</a> |
   <a href="https://github.com/Aine-dickson">💻 GitHub</a> |
   <a href="mailto:ainedixon01@gmail.com">📧 Email</a>
@@ -21,7 +21,7 @@
 - 💡 I’m exploring **Jetpack Compose for Android Development**  
 - 🌱 I’m learning **OS Development & Decentralized Traffic Systems**  
 - 🎯 My goal is to **revolutionize tech in Uganda & beyond**  
-- 📝 I write about tech & embedded Rust [here](https://yourblog.com)
+- 📝 I write about tech & embedded Rust [here](https://aine-dickson.github.io/portfolio/blogs/list)
 
 ---
 
@@ -48,9 +48,9 @@
 ## 🔥 Featured Projects  
 | Project | Description | Tech Stack | Demo |
 |---------|------------|-----------|------|
-| **🚦 Smart Traffic Management** | Decentralized AI-based traffic control | Rust, Embedded | [🔗 Demo](https://yourwebsite.com/project1) |
-| **📱 Traveler Social App** | Social + marketplace app for travelers | Jetpack Compose, Firebase | [🔗 Demo](https://yourwebsite.com/project2) |
-| **🎙️ Rust-based TTS System** | Text-to-Speech optimized for MCUs | Rust, Embedded | [🔗 Demo](https://yourwebsite.com/project3) |
+| **🚦 Smart Traffic Management** | Decentralized AI-based traffic control | Rust, Embedded | [🔗 Demo](https://aine-dickson.github.io/portfolio/project1) |
+| **📱 Traveler Social App** | Social + marketplace app for travelers | Jetpack Compose, Firebase | [🔗 Demo](https://aine-dickson.github.io/portfolio/project2) |
+| **🎙️ Rust-based TTS System** | Text-to-Speech optimized for MCUs | Rust, Embedded | [🔗 Demo](https://aine-dickson.github.io/portfolio/project3) |
 
 ---
 
@@ -63,7 +63,7 @@
 ---
 
 ## 📫 How to Reach Me  
-💼 **Portfolio:** [github.com/Aine-dickson](https://github.com/Aine-dickson)  
+💼 **Portfolio:** [github.com/Aine-dickson](https://aine-dickson.github.io/portfolio)  
 📧 **Email:** [ainedixon01@gmail.com](mailto:ainedixon01@gmail.com)  
 💬 **WhatsApp:** [+256777532858](https://wa.me/256777532858)  
 
